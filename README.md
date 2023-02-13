@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daffa Albari
+Annyeonghaseyo, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daffa Albari
 ====================================================================================================================================
 
-Fullstack Engineer
+Learner | Data Enthusiast
 ------------------
 
 I am a student of Universitas Komputer Indonesia, majoring in Computer Science.
