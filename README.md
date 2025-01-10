@@ -1,13 +1,13 @@
 Annyeonghaseyo, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daffa Albari
 ====================================================================================================================================
 
-Life Time Learner | Data Enthusiast | AI Enginner
+LifeTime Learner | Data Enthusiast | AI Enginner
 ------------------
 
 I am a student of Universitas Komputer Indonesia, majoring in Computer Science.
 
 * 🌍  I'm based in Bandung, Indonesia
-* 🖥️  See my article at [here](http://medium/@daffabercerita)
+* 📖  I like reading. See my article at [here](https://medium/@daffabercerita)
 * ✉️  You can contact me at [daffaa.albari@gmail.com](mailto:daffaa.albari@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Project
 
