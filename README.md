@@ -7,7 +7,7 @@ LifeTime Learner | Data Enthusiast | AI Enginner
 I am a student of Universitas Komputer Indonesia, majoring in Computer Science.
 
 * 🌍  I'm based in Bandung, Indonesia
-* 📖  I like reading. See my article at [here](https://medium/@daffabercerita)
+* 📖  I like reading. See my article at [here](https://medium.com/@daffabercerita)
 * ✉️  You can contact me at [daffaa.albari@gmail.com](mailto:daffaa.albari@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Project
 
