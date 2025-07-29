@@ -2,9 +2,11 @@
 
 # 👋 Hey there, I'm Daaffa Albari!
 
-### 🚀 AI Engineer | Data Enthusiast
+## 🚀 AI Engineer | Data Enthusiast
 
 *"Make code into reality"*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Enthusiast;Python+Developer+%7C+DevOps+Engineer;Level+up+through+code+and+gaming!;Building+intelligent+solutions)](https://git.io/typing-svg)
 
 ---
 
@@ -18,7 +20,6 @@ Welcome to my digital playground! I'm an **AI Engineer**, **Data Enthusiast**, a
 - 💻 **Architecting:** Scalable software solutions with clean, maintainable code
 - 📊 **Passionate about:** Data-driven insights, MLOps, and software craftsmanship
 - 🔧 **Always:** Turning innovative ideas into production-ready code
-- 🎮 **Gaming:** Strategic thinking applies both in code and games!
 
 ---
 
@@ -39,18 +40,10 @@ Welcome to my digital playground! I'm an **AI Engineer**, **Data Enthusiast**, a
 ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Advanced AI Technologies
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### Data & Analytics
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Model Context Protocol & Integration
 ![MCP](https://img.shields.io/badge/-MCP-FF6B6B?style=for-the-badge&logo=protocol&logoColor=white)
