@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Daaffa Albari!
 
-### 🚀 AI Engineer | Data Enthusiast | Software Engineering Advocate | Code Reality Architect
+### 🚀 AI Engineer | Data Enthusiast
 
 *"Make code into reality"*
 
