@@ -71,9 +71,7 @@ Welcome to my digital playground! I'm an **AI Engineer**, **Data Enthusiast**, a
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=daaffalbari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaffalbari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaffalbari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
